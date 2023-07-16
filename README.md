@@ -1,4 +1,4 @@
-# OnStep-SHC-IntegratedController
+# OnStep board gerber file for integration into Takahashi EM10 or EM200
 
 The gerber files for OnStep circuit board that can place inside the EM200 or EM10　were uploaded. There are two types of circuits, and each MPU is Teensy or ESP32S. WROOM02 or 02D is used as Wi-fi module. A board using ESP32S can be connected to OnStep via Bluetooth without using a Wi-fi module. If you use Teensy you need to use WROOM02 or add another Wi-fi or Bluetooth module. WROOM02D is not an easy-to-use part compared to WOMOS D1 mini. In order to connect to Wi-fi in Japan where there are special laws, using this module is the first choice in terms of cost. See the attached image for details.
 
