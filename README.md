@@ -5,4 +5,4 @@ The gerber files for OnStep circuit board that can place inside the EM200 or EM1
 The motor that originally came with the EM200 and EM10 is not suitable for high-speed driving, so please change the motor if possible. However, the spur gear used in EM200 and EM10 has a hole diameter of 4mm or 6mm, so there are few stepping motors that can be used due to the shaft diameter. I ordered a gear with a hole diameter of 5mm for a Japanese manufacturer, and installed a stepping motor capable of high speed rotation.
 Try different methods.
 
-![Image mounted on a telescope 01]
+![Image mounted on a telescope 01](./Photo/EM10  1.JPG)
