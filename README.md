@@ -6,4 +6,4 @@ The motor that originally came with the EM200 and EM10 is not suitable for high-
 Try different methods.
 
 ![Image mounted on a telescope 01](https://github.com/nishiyasu742/OnStep-board-gerber-file-for-integration-into-Takahashi-EM10-or-EM200/blob/main/Photo/EM10%20%201.JPG)
-![Image mounted on a telescope 02](https://github.com/nishiyasu742/OnStep-board-gerber-file-for-integration-into-Takahashi-EM10-or-EM200/blob/main/Photo/EM10%20%201.JPG)
+![Image mounted on a telescope 02](https://github.com/nishiyasu742/OnStep-board-gerber-file-for-integration-into-Takahashi-EM10-or-EM200/blob/main/Photo/EM200%20%201.JPG)
